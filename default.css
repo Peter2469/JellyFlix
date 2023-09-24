@@ -2146,10 +2146,6 @@ div:not(.paperList) .listItem {
   }
 }
 
-.section0 .sectionTitle {
-  padding-top: 60px !important;
-}
-
 @media (max-width: 1px) {
   .section0 {
     display: none;
